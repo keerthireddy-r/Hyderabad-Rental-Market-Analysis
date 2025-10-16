@@ -34,17 +34,17 @@ The goal is to provide insights into rental trends, price distribution across lo
 ## Key Insights
 - **Premium Areas:** Jubilee Hills ,Kokapet,Financial District— highest average rent.  
 - **Affordable Areas:** Sanath Nagar,Amberpet — lower rent prices with good connectivity.  
-- **Rent Drivers:** Locality, property size, and amenities like gym, pool, and parking.  
-- Rent per sqft increases by **~₹9–12 per 100 sqft** of area on average.  
+- **Rent Drivers:** Locality, property size, and amenities like gym, pool, and parking.    
 
 ---
 
 ## Folder Structure
+```text
 Hyderabad-Rental-Market-Analysis/
 │
-├── data/           
-├── notebooks/      
-├── presentation/   
-└── README.md       
+├── data/            
+├── notebooks/       
+├── presentation/    
+└── README.md          
           
 
