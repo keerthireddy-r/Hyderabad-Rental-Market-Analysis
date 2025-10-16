@@ -39,3 +39,9 @@ The goal is to provide insights into rental trends, price distribution across lo
 
 ---
 
+## Folder Structure
+├─ README.md          
+├─ data/
+├─ notebooks/         
+└─ presentation/           
+
